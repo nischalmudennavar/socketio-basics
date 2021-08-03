@@ -1,3 +1,3 @@
 ## vanilla js + socketio = 📥
 
-### simplest implementation of socketio with plane html css and javascript
+### simplest implementation of socketio with html css and javascript
